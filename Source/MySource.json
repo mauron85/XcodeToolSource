@@ -1,0 +1,9 @@
+{
+    "author": "Mauron85",
+    "source": "https://raw.githubusercontent.com/mauron85/XcodeToolSource/master/Source/MySource.json",
+    "uuid": "D6A34D48-835C-414C-BE0B-0756C549401A",
+    "templates": "https:\/\/github.com\/mauron85\/XcodeToolSource.git",
+    "version": "0.0.1",
+    "description": "Source for XcodeTool templates",
+    "name": "MySource"
+}
